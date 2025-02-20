@@ -37,4 +37,5 @@ This project is part of the backend curriculum for Cohort 4 at TIA. It focuses o
 
 ## Contributing
 Contributions are welcome! Please fork the repository.
-Create a new branch in your names and push it the repo.
+
+Create a new branch in your name and push it to the repo.
