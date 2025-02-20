@@ -21,7 +21,7 @@ This project is part of the backend curriculum for Cohort 4 at TIA. It focuses o
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repo
+    cd your-directory
     ```
 3. Install dependencies:
     ```bash
@@ -36,4 +36,5 @@ This project is part of the backend curriculum for Cohort 4 at TIA. It focuses o
 2. Access the API at `http://localhost:3000`.
 
 ## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+Contributions are welcome! Please fork the repository.
+Create a new branch in your names and push it the repo.
