@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Post One",
+    "description": "This is the description for post one."
+  },
+  {
+    "id": 2,
+    "title": "Post Two",
+    "description": "This is the description for post two."
+  },
+  {
+    "id": 3,
+    "title": "Post Three",
+    "description": "This is the description for post three."
+  },
+  { "id": 4, "title": "Testing", "content": "This is the a new post." },
+  {
+    "id": 5,
+    "title": "Testing 5",
+    "content": "This is the a new post from the user."
+  },
+  {
+    "id": 6,
+    "title": "Checking",
+    "content": "This is the a new post from the user."
+  }
+]

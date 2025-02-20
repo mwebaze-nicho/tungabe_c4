@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Introduction to express js",
+  "main": "app.js",
+  "scripts": {
+    "dev":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cohort_4 backend",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
