@@ -1,4 +1,4 @@
-# Backend Project - Cohort 4
+# TIA Backend Class with Node.Js - Cohort 4
 
 ## Table of Contents
 - [Introduction](#introduction)
